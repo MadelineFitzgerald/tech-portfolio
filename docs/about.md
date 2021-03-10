@@ -3,24 +3,13 @@ id: about
 title: About
 ---
 
-You can start your "About" page with an elevator pitch, one or two
-sentences about you! The rest of this page page can
-include a little bit about yourself. Some things you
-might include:
+Hi my name is Madeline Fitzgerald and I am a first year student at Davidson College, and plan on majoring in Chemistry and Computer Science. I love to dance and spend time outside, and am hoping to be involved in computational research. 
 
-1. Your current position
-1. Organizations you're involved with
-1. Your personal and professional values
-1. Hobbies or fun facts
-
-Write it in first (I) or third (Your Name Here) person.
-
-> Don't know what to write? Get a good friend to help! Set some time aside to soundboard.
 
 ## Current Role
 
-Davidson College Student
+First Year Davidson College Student
 
-## Recognition
 
-- 2020 Awesome Woman in Technology Award
+
+
