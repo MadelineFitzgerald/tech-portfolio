@@ -13,7 +13,7 @@ const users = [];
 
 const siteConfig = {
     title: 'Madeline Fitzgerald', // Title for your website.
-    tagline: 'Chemistry & CS & Dance!',
+    tagline: 'Chemistry and CS student at Davidson College',
     profilePhoto: 'img/lake.jpg',
     url: 'https://madelinefitzgerald.github.io', // Your website URL
     baseUrl: '/tech-portfolio/', // Base URL for your project */
